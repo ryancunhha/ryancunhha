@@ -15,7 +15,7 @@
 ###
 
 <div style="width: 50%" align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312rpwgu3ow4bi3pztlmi4lnbrbe&count={10}" alt="Spotify" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312rpwgu3ow4bi3pztlmi4lnbrbe" alt="Spotify" />
 </div>
 
 ###
