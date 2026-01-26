@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=ryancunhha&label=Profile%20views&color=0e75b6&style=flat" alt="ryancunhha" />
   </div>
 
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00BFFF&center=true&width=500&lines=Hi%2C+I'm+Ryan;I'm+from+Brazil;Developer" alt="Typing SVG"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00BFFF&center=true&width=500&lines=Hi%2C+I'm+Ryan;I'm+from+Brazil;Developer" alt="Typing SVG"/>
 </div>
 
 ###
