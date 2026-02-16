@@ -14,14 +14,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/312rpwgu3ow4bi3pztlmi4lnbrbe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312rpwgu3ow4bi3pztlmi4lnbrbe&count=5&unique=true" alt="Spotify"  />
-  </a>
-</div>
-
-###
-
 <picture>
   <img alt="space-shooter" src="./img/ryancunhha-space-shooter.gif">
 </picture>
