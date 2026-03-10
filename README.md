@@ -1,102 +1,58 @@
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div style="display: flex; align-items: center; align:" align="center">
-  <div style="display: flex; align-items: center;" align="left">
+<div style="display: flex; align-items: center; width: 100%; flex-wrap: wrap;">
+  <div style="flex: 0; min-width: 150px;">
     <img src="https://komarev.com/ghpvc/?username=ryancunhha&label=Profile%20views&color=0e75b6&style=flat" alt="ryancunhha" />
   </div>
-
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00BFFF&center=true&width=500&lines=Hi%2C+I'm+Ryan;I'm+from+Brazil;Developer" alt="Typing SVG"/>
 </div>
 
-###
+<br/>
 
-<picture>
-  <img alt="space-shooter" src="./img/ryancunhha-space-shooter.gif">
-</picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&center=true&vCenter=true&random=true&width=1000&height=60&separator=%3C&lines=%F0%9F%91%8B+Hi!+I'm+Ryan%3CI'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7%3C%F0%9F%96%A5%EF%B8%8F+I'm+Developer%3CTransformando+cafe%C3%ADna+em+c%C3%B3digo+%E2%98%95%3C%F0%9F%8C%8D+Depurando+o+mundo%3CConsole.log('Hello+World')%3CSystem.exit(0)%3Cwhile(alive)+%7B+code();+%7D%3CCriando+API+REST+%F0%9F%A4%AB%3Cnpm+install+...%3C01010111+01100101+01100010%3Cgit+commit+-m+%22unresolved+problems+lol%22%3Cimport+happiness+from+%22code%22%3Csudo+chmod+%2Bx+brain%3Creturn+%22fail%22%3CError+404%3CArray.from(%7Blength%3A+infinity%7D)%3Ccd+%2Fhome%2Fryan%2Fprojects%3Cmkdir+ideas+%26%26+cd+ideas%3Cconst+ryan+%3D+new+Developer(%7B+country%3A+%22BR%22+%7D)%3CAlgu%C3%A9m+realmente+ler+isso%3F%3CDid+no+one+actually+read+this%3F%3Cimport+happiness+from+%22shotgun%22" alt="Typing SVG" /></a>
 
-###
+<br/>
 
-<div style="display: flex; align-items: flex-start; align: center">
-  <h2 align="left">Languages and Tools:</h2>
+<div align="center">
+  <img alt="space-shooter" src="./img/ryancunhha-space-shooter.gif" width="100%" style="max-width: 800px; border-radius: 10px;">
+</div>
 
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>Git Hub
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST" />
-        <br>API REST
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-        <br>DOCKER
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Node.js" />
-        <br>NODE.JS
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="65" alt="Raspberry-pi" />
-        <br>Raspberry PI
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/color/90/html-5--v1.png" width="65" height="65" alt="" />
-        <br>HTML
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/fluency/90/css3.png" width="65" height="65" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/color/90/wordpress.png" width="65" height="65" alt="wordpress" />
-        <br>WordPress
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/fluency/90/visual-studio-code-2019.png" width="65" height="65" alt="vscode" />
-        <br>Visual Studio Code
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/90/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="65" height="65" alt="mongodb" />
-        <br>Mongo DB
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/color/90/git.png" width="65" height="65" alt="git" />
-        <br>Git
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/color/90/npm.png" width="65" height="65" alt="NPM" />
-        <br>NPM
-      </td>
-      <td align="center" width="96"> 
-        <img src="https://img.icons8.com/color/90/linux--v1.png" width="65" height="65" alt="linux" />
-        <br>Linux
-      </td>
-    </tr>
-  </table>
+<br/>
+
+<h3 align="left">🛠️ My tools</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"/>
+  </a>
 </div>
