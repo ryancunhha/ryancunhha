@@ -5,18 +5,11 @@
 </div>
 
 <br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&center=true&vCenter=true&random=true&width=1000&height=60&separator=%3C&lines=%F0%9F%91%8B+Hi!+I'm+Ryan%3CI'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7%3C%F0%9F%96%A5%EF%B8%8F+I'm+Developer%3CTransformando+cafe%C3%ADna+em+c%C3%B3digo+%E2%98%95%3C%F0%9F%8C%8D+Depurando+o+mundo%3CConsole.log('Hello+World')%3CSystem.exit(0)%3Cwhile(alive)+%7B+code();+%7D%3CCriando+API+REST+%F0%9F%A4%AB%3Cnpm+install+...%3C01010111+01100101+01100010%3Cgit+commit+-m+%22unresolved+problems+lol%22%3Cimport+happiness+from+%22code%22%3Csudo+chmod+%2Bx+brain%3Creturn+%22fail%22%3CError+404%3CArray.from(%7Blength%3A+infinity%7D)%3Ccd+%2Fhome%2Fryan%2Fprojects%3Cmkdir+ideas+%26%26+cd+ideas%3Cconst+ryan+%3D+new+Developer(%7B+country%3A+%22BR%22+%7D)%3CAlgu%C3%A9m+realmente+ler+isso%3F%3CDid+no+one+actually+read+this%3F%3Cimport+happiness+from+%22shotgun%22" alt="Typing SVG" /></a>
-
-<br/>
-
 <div align="center">
   <img alt="space-shooter" src="./img/ryancunhha-space-shooter.gif" width="100%" style="max-width: 800px; border-radius: 10px;">
 </div>
 
 <br/>
-
-<h3 align="left">🛠️ My tools</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
