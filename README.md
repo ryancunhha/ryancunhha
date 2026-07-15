@@ -33,13 +33,6 @@ Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades c
 
 ---
 
-## 📌 Projetos Recentes
-
-<!-- PROJECTS:START -->
-<!-- PROJECTS:END -->
-
----
-
 ## GitHub
 
 <p align="center">
