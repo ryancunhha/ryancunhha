@@ -1,51 +1,75 @@
-<div style="display: flex; align-items: center; width: 100%; flex-wrap: wrap;">
-  <div style="flex: 0; min-width: 150px;">
-    <img src="https://komarev.com/ghpvc/?username=ryancunhha&label=Profile%20views&color=0e75b6&style=flat" alt="ryancunhha" />
-  </div>
-</div>
-
-<br/>
 <div align="center">
-  <img alt="space-shooter" src="./img/ryancunhha-space-shooter.gif" width="100%" style="max-width: 800px; border-radius: 10px;">
+
+# Olá, eu sou o Ryan Cunha 👋
+
+### Desenvolvedor Full Stack | Web • Automações
+
+Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades como desenvolvedor. Gosto de resolver problemas, aprender novas tecnologias e criar projetos que contribuam para o meu crescimento como desenvolvedor de software.
+
 </div>
 
-<br/>
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"/>
+## Tecnologias
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+
+### Banco de dados
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+---
+
+## 📌 Projetos Recentes
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryancunhha/ryancunhha/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</p>
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/ryancunhha">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="max-width: 100%;"/>
+
+  <a href="https://www.linkedin.com/in/ryancunhha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="max-width: 100%;"/>
+
+  <a href="https://x.com/Ryancunhha">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"/>
-  </a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+Explore meus repositórios e acompanhe minha jornada como desenvolvedor.
+
 </div>
