@@ -43,7 +43,7 @@ Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades c
 ## GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ryancunhha/ryancunhha/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/ryancunhha/ryancunhha/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Contribution Graph" />
 </p>
 
 ---
@@ -63,8 +63,6 @@ Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades c
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
 
