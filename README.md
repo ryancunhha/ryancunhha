@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Ryan Cunha 👋
 
-### Desenvolvedor Full Stack | Web • Automações
+### Desenvolvedor Full Stack | Web • Mobile • Automações
 
-Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades como desenvolvedor. Gosto de resolver problemas, aprender novas tecnologias e criar projetos que contribuam para o meu crescimento como desenvolvedor de software.
+Desenvolvo aplicações web e busco aprimorar e aperfeiçoar continuamente minhas habilidades. Gosto de resolver problemas, aprender novas tecnologias e criar projetos que contribuam para o meu crescimento.
 
 </div>
 
@@ -44,10 +44,6 @@ Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades c
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/ryancunhha">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/ryancunhha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -61,6 +57,6 @@ Desenvolvo aplicações web e busco aprimorar continuamente minhas habilidades c
 
 ⭐ Obrigado por visitar meu perfil!
 
-Explore meus repositórios e acompanhe minha jornada como desenvolvedor.
+Explore meus repositórios e acompanhe minha jornada!
 
 </div>
