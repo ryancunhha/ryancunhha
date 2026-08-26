@@ -22,7 +22,7 @@ My interest in development sparked spontaneously. My brother was taking an onlin
 ## 🎓 Education & Evolution
 Over time, I decided to pursue a degree in Systems Analysis and Development (ADS) at IBMR. I earned a 100% full scholarship through a highly competitive Brazilian national exam. During this journey, I became deeply interested in Back-end, Databases, and Automation areas that are now part of my daily routine, both in my studies and my personal projects.
 
-## 💻 Technologies
+## Technologies
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -41,7 +41,7 @@ Over time, I decided to pursue a degree in Systems Analysis and Development (ADS
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ryancunhha/ryancunhha/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Contribution Graph" />
