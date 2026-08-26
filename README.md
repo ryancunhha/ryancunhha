@@ -1,9 +1,9 @@
-<!-- <div align="left">
+<div align="left">
   <i>Read in:</i>
   <a href="https://github.com/ryancunhha/ryancunhha/blob/main/README-en.md">
     <img src="https://img.shields.io/badge/English-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English" />
   </a>
-</div> -->
+</div>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Meu Método
 
-Gosto de criar projetos organizados, focados em reutilização de código, escalabilidade e facilidade de manutenção. Os projetos apresentados neste portfólio/GitHub refletem a como penso, organizo e desenvolvo.
+Gosto de criar projetos organizados, focados em reutilização de código, escalabilidade e facilidade de manutenção. Os projetos apresentados neste portfólio refletem a como penso, organizo e desenvolvo.
 
 ## 🌱 Trajetória e Formação
 
