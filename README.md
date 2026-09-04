@@ -27,8 +27,6 @@ Com o tempo, decidi ingressar numa graduação de Análise e Desenvolvimento de 
 ## Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -36,7 +34,7 @@ Com o tempo, decidi ingressar numa graduação de Análise e Desenvolvimento de 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-## GitHub
+## Commits GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ryancunhha/ryancunhha/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Contribution Graph" />
@@ -44,7 +42,7 @@ Com o tempo, decidi ingressar numa graduação de Análise e Desenvolvimento de 
 
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar!
 
 Explore meus repositórios e acompanhe minha jornada!
 
