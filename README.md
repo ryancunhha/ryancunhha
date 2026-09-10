@@ -9,20 +9,18 @@
 
 # Olá, eu sou o Ryan Cunha 👋
 
-### Desenvolvedor Full Stack • Web • Mobile • Automações
+## Desenvolvedor Full Stack 
 
 </div>
 
 ## 🛠️ Meu Método
+Gosto de criar projetos organizados, <mark>reutilização de código</mark>, <mark>escalabilidade</mark> e <mark>facilidade de manutenção</mark>. Os projetos apresentados neste portfólio refletem a como penso, organizo e desenvolvo.
 
-Gosto de criar projetos organizados, focados em reutilização de código, escalabilidade e facilidade de manutenção. Os projetos apresentados neste portfólio refletem a como penso, organizo e desenvolvo.
-
-## 🌱 Trajetória e Formação
-
-Meu interesse pelo desenvolvimento surgiu de forma espontânea. Meu irmão realizava um curso online de programação e ao acompanhar seus estudos, despertei curiosidade pela área. A curiosidade rapidamente virou interesse, comecei pelo Front-end e fui evoluindo naturalmente.
+## 🌱 Trajetória
+Meu interesse pelo desenvolvimento surgiu de forma espontânea. Meu irmão realizava um curso online de programação e ao acompanhar seus estudos, despertei curiosidade pela área. A curiosidade rapidamente virou interesse, comecei pelo <mark>Front-end</mark> e fui evoluindo naturalmente.
 
 ## 🎓 Formação e Evolução
-Com o tempo, decidi ingressar numa graduação de Análise e Desenvolvimento de Sistemas (ADS) na Barra da Tijuca (IBMR), conquistando uma bolsa de 100% por meio do ENEM. Durante essa jornada, me interessei por Back-end, Bancos de dados e Automações, áreas que hoje fazem parte do meu dia a dia, nos estudos e no desenvolvimento dos meus projetos.
+Com o tempo, decidi ingressar numa graduação de <mark>Análise e Desenvolvimento de Sistemas (ADS)</mark> na Barra da Tijuca (<mark>IBMR</mark>). Durante essa jornada, me interessei por <mark>Back-end</mark>, <mark>Bancos de dados</mark> e <mark>Automações</mark>, áreas que hoje fazem parte do meu dia a dia, nos estudos e no desenvolvimento dos meus projetos.
 
 ## Tecnologias
 
