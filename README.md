@@ -9,8 +9,6 @@
 
 # Olá, eu sou o Ryan Cunha 👋
 
-## Desenvolvedor Full Stack 
-
 </div>
 
 ## 🛠️ Meu Método
@@ -30,6 +28,7 @@ Com o tempo, decidi ingressar numa graduação de <mark>Análise e Desenvolvimen
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ## Commits GitHub
